@@ -1,9 +1,9 @@
 # Prediksi1
 
-The web app was built in Python using the following libraries:
+Aplikasi web dibangun dengan bahasa Python + libraries :
 
-streamlit
-pandas
-numpy
-scikit-learn
-pickle
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+- pickle
