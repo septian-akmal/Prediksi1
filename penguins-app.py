@@ -6,7 +6,7 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# Aplikasi Prediksi Sederhana 1
+# Aplikasi Prediksi Sederhana 
 
 Aplikasi ini memprediksi dengan **Palmer Penguin**! hehehewkwk
 
